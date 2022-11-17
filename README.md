@@ -1,2 +1,1 @@
-# binance-dollar-cost-avereging
-Binance Dollar Cost Averaging Python Script
+# Binance Dollar Cost Averaging Python Script
